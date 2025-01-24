@@ -14,7 +14,7 @@
     ```sql
     SELECT ciudad, telefono
     FROM oficina
-    WHERE pais = 'España'
+    WHERE pais = 'Ecuador'
     ```
 
 3. Devuelve un listado con el nombre, apellidos y email de los empleados cuyo jefe tiene un código de jefe igual a 7.
